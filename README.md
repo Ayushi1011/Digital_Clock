@@ -1,3 +1,3 @@
 # Digital_Clock
 
-(clock.png)
+![](clock.png)
