@@ -1,3 +1,3 @@
 # Digital_Clock
 
-https://github.com/Ayushi1011/Digital_Clock/blob/main/clock.png?raw=true
+https://raw.githubusercontent.com/Ayushi1011/Digital_Clock/main/clock.png
